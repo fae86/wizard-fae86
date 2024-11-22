@@ -1,0 +1,120 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>videolibrary</name>
+            <path pathversion="1">special://profile/addon_data/plugin.video.alfa/videolibrary/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>downloads</name>
+            <path pathversion="1">special://home/userdata\addon_data\plugin.video.alfa\downloads\</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>funs</name>
+            <path pathversion="1">https://funstersplace.net/funs/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>mmwiz</name>
+            <path pathversion="1">http://misfitmods.com/mmwiz/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>palantir</name>
+            <path pathversion="1">https://palantirsource.github.io/palantir/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>alfa</name>
+            <path pathversion="1">https://alfa-addon.com/alfa/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Balandro</name>
+            <path pathversion="1">https://repobal.github.io/base/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>tvchopo</name>
+            <path pathversion="1">https://fuente-tvchopo.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Black Ghost</name>
+            <path pathversion="1">https://repobg.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Tacones</name>
+            <path pathversion="1">https://teamsix-fuente.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name> Vavoo </name>
+            <path pathversion="1">https://michaz1988.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Openwizard</name>
+            <path pathversion="1">https://a4k-openproject.github.io/repository.openwizard/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>EZ Maintenance</name>
+            <path pathversion="1">https://peno64.github.io/repository.peno64/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>repository.openwizard</name>
+            <path pathversion="1">https://a4k-openproject.github.io/repository.openwizard/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>SportsDevil</name>
+            <path pathversion="1">http://cellardoortv.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>shortlist</name>
+            <path pathversion="1">https://kcook98765.github.io/repository.kcook98765/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Autowidget</name>
+            <path pathversion="1">https://drinfernoo.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>KodiLoco</name>
+            <path pathversion="1">https://kodiloucosbr.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Dexe</name>
+            <path pathversion="1">http://dexe.win/kodi/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Águilas Doradas</name>
+            <path pathversion="1">https://dregs1.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>
